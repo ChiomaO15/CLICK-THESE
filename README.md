@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning,Predictive modeling,Database management and Data visualization
 - 🌱 I’m currently learning more on Machine Learning and Predictive modeling 
 - 💞️ I’m looking to collaborate on Machine learning,Artificial intelligence and Image processing
-- 📫 How to reach me here
+- 📫 chiomalizzy19@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: There is nothing i cannot surf out from the internet.i love to surf the internet for vital informations.
 
